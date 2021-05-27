@@ -1,0 +1,16 @@
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.AssemblyInfoInputs.cache
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.AssemblyInfo.cs
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.csproj.CoreCompileInputs.cache
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.exe
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.deps.json
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.runtimeconfig.json
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.runtimeconfig.dev.json
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.dll
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\ref\Крестики нолики оригинал.dll
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\bin\Debug\net5.0\Крестики нолики оригинал.pdb
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.dll
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\ref\Крестики нолики оригинал.dll
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.pdb
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.genruntimeconfig.cache
+C:\visual studio 2019\Крестики нолики оригинал\Крестики нолики оригинал\obj\Debug\net5.0\Крестики нолики оригинал.csprojAssemblyReference.cache

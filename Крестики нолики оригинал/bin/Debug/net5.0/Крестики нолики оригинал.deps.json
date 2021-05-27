@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Крестики нолики оригинал/1.0.0": {
+        "runtime": {
+          "Крестики нолики оригинал.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Крестики нолики оригинал/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
